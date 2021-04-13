@@ -2,8 +2,20 @@ body{
     background-color: antiquewhite;
 }
 header nav{
+    width: 70%;
     background-color: cadetblue;
+    margin: 0 auto;
 }
 header nav ul{
     border: 5px solid black ;
+    
+}
+header nav ul li {
+    display: inline;
+    font-size: 2rem;
+}
+header nav ul li a{
+    padding: 15px 30px;
+    text-decoration: none;
+    color:black;
 }
