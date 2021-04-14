@@ -19,3 +19,13 @@ header nav ul li a{
     text-decoration: none;
     color:black;
 }
+article{
+    background-color: burlywood;
+}
+article h1,h2{
+    font-size: 2.5rem;
+}
+article p{
+    font-size: 1.5rem;
+    
+}
