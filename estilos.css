@@ -29,3 +29,9 @@ article p{
     font-size: 1.5rem;
     
 }
+footer{
+    width: 70%;
+    width: 200px;
+    background-color: cadetblue;
+    margin: 0 auto;
+}
