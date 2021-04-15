@@ -30,8 +30,13 @@ article p{
     
 }
 footer{
-    width: 70%;
-    width: 200px;
+    width: 90%;
+    height: 100px;
     background-color: cadetblue;
-    margin: 0 auto;
+    margin:0 auto
+}
+footer p {
+    text-align: center;
+    padding-top: 40px;
+    font-size: large;
 }
